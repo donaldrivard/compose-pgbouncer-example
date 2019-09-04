@@ -1,4 +1,4 @@
 "app1" "md5<MD5 hash password+username>"
 "app2" "md5<MD5 hash password+username>"
-"app_admin" "md5<MD5 hash password+username>"
-"app_admin2" "md5<MD5 hash password+username>"
+"app_admin" "md557f1dd02778238bdfa7c7b385932d925"
+"app_admin2" "md5c63569d8e3c5242092cd72819408fbbf"
